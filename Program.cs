@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Tets1
+=======
+﻿Change with torto2
+>>>>>>> c52fc8a2cdb4def55f5d1be404f726fb7ad5dcc5
 
 using System;
 using System.Collections.Generic;
